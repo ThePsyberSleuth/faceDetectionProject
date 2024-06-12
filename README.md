@@ -1,0 +1,2 @@
+# faceDetectionProject
+ FaceGuard is an innovative face detection and recognition system designed to set new standards in biometric security. Leveraging state-of-the-art convolutional neural networks (CNNs) and deep learning algorithms, FaceGuard offers unparalleled accuracy, real-time processing, and a strong commitment to user privacy and data security. This project aims to provide a comprehensive solution for various applications, including security surveillance, personalized user experiences, and secure access control across multiple sectors.
